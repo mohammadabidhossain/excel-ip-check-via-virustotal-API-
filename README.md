@@ -32,7 +32,8 @@ Excel file with IP addresses in Column A
 Clone the repository:
 
 bash
-git clone [https://github.com/mohammadabidhossain/excel-ip-check-via-virustotal-API](https://github.com/mohammadabidhossain/excel-ip-check-via-virustotal-API-).git
+git clone [https://github.com/mohammadabidhossain/excel-ip-check-via-virustotal-API](https://github.com/mohammadabidhossain/excel-ip-check-via-virustotal-API-) 
+
 cd excel-ip-check-via-virustotal-API
 Install required packages:
 
