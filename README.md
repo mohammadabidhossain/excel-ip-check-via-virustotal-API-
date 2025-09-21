@@ -35,17 +35,24 @@ bash
 git clone [https://github.com/mohammadabidhossain/excel-ip-check-via-virustotal-API](https://github.com/mohammadabidhossain/excel-ip-check-via-virustotal-API-) 
 
 cd excel-ip-check-via-virustotal-API
+
 Install required packages:
 
 bash
+
 pip install pandas requests openpyxl
+
 Get your VirusTotal API key:
+
 
 Sign up at VirusTotal
 
+
 Go to your account settings → API Key
 
+
 Copy your API key
+
 
 🚀 Usage
 Prepare your Excel file:
