@@ -1,7 +1,9 @@
 📋 Overview
+
 This tool reads IP addresses from an Excel file, queries VirusTotal's API for each IP, and writes the results back to the Excel file. Perfect for security analysts, network administrators, and cybersecurity professionals who need to quickly assess the reputation of multiple IP addresses.
 
 ✨ Features
+
 Automated IP Reputation Checking: Bulk check multiple IP addresses against VirusTotal
 
 Excel Integration: Direct read/write from/to Excel files
